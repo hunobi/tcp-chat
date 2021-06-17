@@ -1,0 +1,14 @@
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Projekty\Projekt_01_Wysylanie_Plikow\Server\Server\Server\bin\Debug\Server.exe.config
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Projekty\Projekt_01_Wysylanie_Plikow\Server\Server\Server\bin\Debug\Server.exe
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Projekty\Projekt_01_Wysylanie_Plikow\Server\Server\Server\bin\Debug\Server.pdb
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Projekty\Projekt_01_Wysylanie_Plikow\Server\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Projekty\Projekt_01_Wysylanie_Plikow\Server\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Projekty\Projekt_01_Wysylanie_Plikow\Server\Server\Server\obj\Debug\Server.exe
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Projekty\Projekt_01_Wysylanie_Plikow\Server\Server\Server\obj\Debug\Server.pdb
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Projekty\Projekt_01_HubChat-Serv-Client\Server\Server\Server\bin\Debug\Server.exe.config
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Projekty\Projekt_01_HubChat-Serv-Client\Server\Server\Server\bin\Debug\Server.exe
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Projekty\Projekt_01_HubChat-Serv-Client\Server\Server\Server\bin\Debug\Server.pdb
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Projekty\Projekt_01_HubChat-Serv-Client\Server\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Projekty\Projekt_01_HubChat-Serv-Client\Server\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Projekty\Projekt_01_HubChat-Serv-Client\Server\Server\Server\obj\Debug\Server.exe
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Projekty\Projekt_01_HubChat-Serv-Client\Server\Server\Server\obj\Debug\Server.pdb

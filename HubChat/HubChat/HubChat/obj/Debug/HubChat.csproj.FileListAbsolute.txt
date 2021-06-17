@@ -1,0 +1,22 @@
+C:\Users\hubci\Desktop\Socket TuT C#\HubChat\HubChat\HubChat\bin\Debug\HubChat.exe.config
+C:\Users\hubci\Desktop\Socket TuT C#\HubChat\HubChat\HubChat\bin\Debug\HubChat.exe
+C:\Users\hubci\Desktop\Socket TuT C#\HubChat\HubChat\HubChat\bin\Debug\HubChat.pdb
+C:\Users\hubci\Desktop\Socket TuT C#\HubChat\HubChat\HubChat\obj\Debug\HubChat.csprojAssemblyReference.cache
+C:\Users\hubci\Desktop\Socket TuT C#\HubChat\HubChat\HubChat\obj\Debug\HubChat.MainForm.resources
+C:\Users\hubci\Desktop\Socket TuT C#\HubChat\HubChat\HubChat\obj\Debug\HubChat.Properties.Resources.resources
+C:\Users\hubci\Desktop\Socket TuT C#\HubChat\HubChat\HubChat\obj\Debug\HubChat.csproj.GenerateResource.cache
+C:\Users\hubci\Desktop\Socket TuT C#\HubChat\HubChat\HubChat\obj\Debug\HubChat.csproj.CoreCompileInputs.cache
+C:\Users\hubci\Desktop\Socket TuT C#\HubChat\HubChat\HubChat\obj\Debug\HubChat.exe
+C:\Users\hubci\Desktop\Socket TuT C#\HubChat\HubChat\HubChat\obj\Debug\HubChat.pdb
+C:\Users\hubci\Desktop\Socket TuT C#\HubChat\HubChat\HubChat\obj\Debug\HubChat.Opcje.resources
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\[TuT] Socket - C#\HubChat\HubChat\HubChat\bin\Debug\HubChat.exe.config
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\[TuT] Socket - C#\HubChat\HubChat\HubChat\bin\Debug\HubChat.exe
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\[TuT] Socket - C#\HubChat\HubChat\HubChat\bin\Debug\HubChat.pdb
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\[TuT] Socket - C#\HubChat\HubChat\HubChat\obj\Debug\HubChat.csprojAssemblyReference.cache
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\[TuT] Socket - C#\HubChat\HubChat\HubChat\obj\Debug\HubChat.MainForm.resources
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\[TuT] Socket - C#\HubChat\HubChat\HubChat\obj\Debug\HubChat.Opcje.resources
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\[TuT] Socket - C#\HubChat\HubChat\HubChat\obj\Debug\HubChat.Properties.Resources.resources
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\[TuT] Socket - C#\HubChat\HubChat\HubChat\obj\Debug\HubChat.csproj.GenerateResource.cache
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\[TuT] Socket - C#\HubChat\HubChat\HubChat\obj\Debug\HubChat.csproj.CoreCompileInputs.cache
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\[TuT] Socket - C#\HubChat\HubChat\HubChat\obj\Debug\HubChat.exe
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\[TuT] Socket - C#\HubChat\HubChat\HubChat\obj\Debug\HubChat.pdb
